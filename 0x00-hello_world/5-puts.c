@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main-to use the printf command
- * return: always 0
+ * main - to use the printf command
+ * function: what the printf does
+ * return: always 0 successful
  */
 int main(void)
 {
