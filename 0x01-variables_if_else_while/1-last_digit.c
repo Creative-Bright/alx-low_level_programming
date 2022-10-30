@@ -3,8 +3,8 @@
 #include <time.h>
 /**
  * main - Entry point
- * author: Sammykingx
- * date:05-06-2022
+ * author: Bright Bentum
+ * date:2-10-2022
  * Return: 0 (success)
 */
 int main(void)
